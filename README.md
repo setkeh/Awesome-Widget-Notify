@@ -8,21 +8,21 @@ https://github.com/setkeh/Awesome-Widget-Notify
 
 `Sysinfo.lua:`
     
-Depends on: [Archey][1]
-Optional: [None]
-Distro: [Archlinux][4]
+`Depends on:` [Archey][1]
+`Optional:` [None]
+`Distro:` [Archlinux][4]
 
 `Aurup.lua:`
     
-Depends on: [Cower][2]
-Optional: [None]
-Distro: [Archlinux][4]
+`Depends on:` [Cower][2]
+`Optional:` [None]
+`Distro:` [Archlinux][4]
 
 `pacmanup.lua:`
     
-Depends on: [Pacman][4]
-Optional: [None]
-Distro: [Archlinux][4]
+`Depends on:` [Pacman][4]
+`Optional:` [None]
+`Distro:` [Archlinux][4]
 
 Usage
 -----
@@ -45,12 +45,15 @@ Usage
 NOTES
 -----
 `sysinfo.lua:`
+       
        # The Notification is Currently Working but has a locale Issue it is KNOWN and is currently being worked on.
 
 `pacmanup.lua:`
+       
        # No notes yet
 
 `aurup.lua:`
+       
        # No notes yet
 
 SUPPORT
