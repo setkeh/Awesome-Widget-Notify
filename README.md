@@ -8,7 +8,7 @@ https://github.com/setkeh/Awesome-Widget-Notify
 
 'Sysinfo.lua:'
     # Depends on: [Archey][1]
-    # Optional:   [None]
+    # Optional: [None]
     # Distro: [Archlinux][4]
 
 'Aurup.lua:'
