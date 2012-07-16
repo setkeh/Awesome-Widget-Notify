@@ -35,32 +35,32 @@ Usage
 
 `pacmanup.lua:`
 
-    # pacup = require("pacmanup")
-    # pacup.addToWidget(pacman)
+     pacup = require("pacmanup")
+     pacup.addToWidget(pacman)
 
 `aurup.lua:`
 
-    # aurup = require("aurup")
-    # aurup.addToWidget(aur)
+     aurup = require("aurup")
+     aurup.addToWidget(aur)
 
 `sysinfo.lua:`
 
-    # sys = require("sysinf")
-    # sys.addToWidget(oswidget)
+     sys = require("sysinf")
+     sys.addToWidget(oswidget)
 
 NOTES
 -----
 `sysinfo.lua:`
        
-       # The Notification is Currently Working but has a locale Issue it is KNOWN and is currently being worked on.
+        The Notification is Currently Working but has a locale Issue it is KNOWN and is currently being worked on.
 
 `pacmanup.lua:`
        
-       # No notes yet
+        No notes yet
 
 `aurup.lua:`
        
-       # No notes yet
+        No notes yet
 
 SUPPORT
 -------
