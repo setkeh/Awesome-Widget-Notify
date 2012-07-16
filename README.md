@@ -8,21 +8,21 @@ https://github.com/setkeh/Awesome-Widget-Notify
 
 `Sysinfo.lua:`
     
-`Depends on:` [Archey][1]
-`Optional:` [None]
-`Distro:` [Archlinux][4]
+    `Depends on:` [Archey][1]
+    `Optional:` [None]
+    `Distro:` [Archlinux][4]
 
 `Aurup.lua:`
     
-`Depends on:` [Cower][2]
-`Optional:` [None]
-`Distro:` [Archlinux][4]
+    `Depends on:` [Cower][2]
+    `Optional:` [None]
+    `Distro:` [Archlinux][4]
 
 `pacmanup.lua:`
     
-`Depends on:` [Pacman][4]
-`Optional:` [None]
-`Distro:` [Archlinux][4]
+    `Depends on:` [Pacman][4]
+    `Optional:` [None]
+    `Distro:` [Archlinux][4]
 
 Usage
 -----
