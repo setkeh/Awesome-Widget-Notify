@@ -6,20 +6,20 @@ Awesome Widget Notify Scripts
 http://awesome.naquadah.org/wiki/Main_Page
 https://github.com/setkeh/Awesome-Widget-Notify
 
-Sysinfo.lua
-Depends on: [Archey][1]
-Optional:   [None]
-Distro: [Archlinux][4]
+'Sysinfo.lua'
+    Depends on: [Archey][1]
+    Optional:   [None]
+    Distro: [Archlinux][4]
 
-Aurup.lua
-Depends on: [Cower][2]
-Optional: [None]
-Distro: [Archlinux][4]
+'Aurup.lua'
+    Depends on: [Cower][2]
+    Optional: [None]
+    Distro: [Archlinux][4]
 
-pacmanup.lua
-Depends on: [Pacman][4]
-Optional: [None]
-Distro: [Archlinux][4]
+'pacmanup.lua'
+    Depends on: [Pacman][4]
+    Optional: [None]
+    Distro: [Archlinux][4]
 
 Usage
 -----
@@ -27,17 +27,17 @@ Usage
 `pacmanup.lua:`
 
     # pacup = require("pacmanup")
-    # sys.addToWidget(pacman, 240, 90, true)
+    # pacup.addToWidget(pacman)
 
 `aurup.lua:`
 
     # aurup = require("aurup")
-    # sys.addToWidget(aur, 240, 90, true)
+    # aurup.addToWidget(aur)
 
 `sysinfo.lua:`
 
     # sys = require("sysinf")
-    # sys.addToWidget(oswidget, 240, 90, true)
+    # sys.addToWidget(oswidget)
 
 NOTES
 -----
@@ -45,10 +45,10 @@ NOTES
        # The Notification is Currently Working but has a locale Issue it is KNOWN and is currently being worked on.
 
 'pacmanup.lua:'
-       # To save Recourses you should not use timeouts shorter than 250 seconds otherwise the system will run "pacman -Qqu" every timout timer
+       # No notes yet
 
 'aurup.lua:'
-       # Refer to pacmanup.lua's notes exact same applies to Cower
+       # No notes yet
 
 SUPPORT
 -------
