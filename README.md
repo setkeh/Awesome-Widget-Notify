@@ -6,7 +6,7 @@ Awesome Widget Notify Scripts
 http://awesome.naquadah.org/wiki/Main_Page
 https://github.com/setkeh/Awesome-Widget-Notify
 
-Sysinfo.lua:
+`Sysinfo.lua:`
 
 Depends on: [Archey][1]
 
@@ -14,7 +14,7 @@ Optional: [None]
 
 Distro: [Archlinux][4]
 
-Aurup.lua:
+`Aurup.lua:`
 
 Depends on: [Cower][2]
 
@@ -22,7 +22,7 @@ Optional: [None]
 
 Distro: [Archlinux][4]
 
-pacmanup.lua:
+`pacmanup.lua:`
 
 Depends on: [Pacman][4]
 
