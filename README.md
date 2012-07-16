@@ -6,19 +6,19 @@ Awesome Widget Notify Scripts
 http://awesome.naquadah.org/wiki/Main_Page
 https://github.com/setkeh/Awesome-Widget-Notify
 
-'Sysinfo.lua:'
+`Sysinfo.lua:`
     
 Depends on: [Archey][1]
 Optional: [None]
 Distro: [Archlinux][4]
 
-'Aurup.lua:'
+`Aurup.lua:`
     
 Depends on: [Cower][2]
 Optional: [None]
 Distro: [Archlinux][4]
 
-'pacmanup.lua:'
+`pacmanup.lua:`
     
 Depends on: [Pacman][4]
 Optional: [None]
@@ -44,13 +44,13 @@ Usage
 
 NOTES
 -----
-'sysinfo.lua:'
+`sysinfo.lua:`
        # The Notification is Currently Working but has a locale Issue it is KNOWN and is currently being worked on.
 
-'pacmanup.lua:'
+`pacmanup.lua:`
        # No notes yet
 
-'aurup.lua:'
+`aurup.lua:`
        # No notes yet
 
 SUPPORT
