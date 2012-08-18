@@ -30,6 +30,18 @@ Optional: [None]
 
 Distro: [Archlinux][4]
 
+`bitcoin.lua:`
+
+Depends On: [Bitcoind][8]
+
+Distro: Indipendant.
+
+`namecoin.lua`
+
+DependsOn [Namecoind][7]
+
+Distro: Indipendant.
+
 Usage
 -----
 
@@ -107,3 +119,5 @@ SHARE AND ENJOY!
 [4]: http://archlinux.org
 [5]: http://www.linuxdistrocommunity.com
 [6]: https://github.com/setkeh/Awesome/issues
+[7]: http://dot-bit.org
+[8]: http://bitcoin.org
